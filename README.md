@@ -1,17 +1,21 @@
 # TaskList Application with React & TypeScript
 
+## :sparkles: Live Demo
+
+[https://ismailkaraalioglu-taskify.netlify.app](https://ismailkaraalioglu-taskify.netlify.app)
+
 ## :computer: Setup
 
 1. Clone the repository and install its features.
 
 ```
-npm install or yarn install
+npm install
 ```
 
 2. Use the project locally (localhost).
 
 ```
-npm start or yarn start
+npm start
 ```
 
 ## Project Features
